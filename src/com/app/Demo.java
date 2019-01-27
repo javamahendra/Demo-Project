@@ -11,5 +11,11 @@ public class Demo {
 
 		System.out.println("add one statement in method");
 	}
+	
+	public void data1(){
+		
+		
+		
+	}
 
 }
