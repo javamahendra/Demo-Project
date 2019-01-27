@@ -5,6 +5,7 @@ public class Demo {
 	public static void main(String[] args) {
 		
 		System.out.println("Demo project");
+		Data.m1();
 	}
 	
 	public void data(){
