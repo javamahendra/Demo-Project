@@ -14,7 +14,7 @@ public class Demo {
 	
 	public void data1(){
 		
-		
+		System.out.println("add 2nd method in git repo");
 		
 	}
 
