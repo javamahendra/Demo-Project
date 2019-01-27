@@ -6,5 +6,9 @@ public class Demo {
 		
 		System.out.println("Demo project");
 	}
+	
+	public void data(){
+		
+	}
 
 }
