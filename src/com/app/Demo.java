@@ -8,7 +8,8 @@ public class Demo {
 	}
 	
 	public void data(){
-		
+
+		System.out.println("add one statement in method");
 	}
 
 }
